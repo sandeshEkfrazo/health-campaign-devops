@@ -12,8 +12,8 @@ db_name: "testhealthdbv1"
 db_username: "testhealthuserv1" 
 
 # Replace with Domain name you want for your web applications
-# domain_name: "hcm-console.digit.org"
-domain_name: "egov-san.thestorywallcafe.com"
+domain_name: "hcm-console.digit.org"
+# domain_name: "egov-san.thestorywallcafe.com"
 
 public_ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCFyVBal/JME1JCJtO/t/+MTO6Oyo0fleHoFqvUajo5C3PSx34rigllpdnJqMPeKASVqN5h/gUnusoLAEEHm1LAKoGNK7kG/YjkJ8sK5PpSecTuHsdmb5PAlFQPtoXSWFqLF5l9tIuzp0bgIFV2QwMtmdgtsXtXEkmST6YlDcYdUXQ/ucJDcWULuib48u66JlqVHEt+1dpWWDCLQvCjcflxdOTgEjF+k5B3LJBWHsyKZvCfOKSSfJxRo2RiMxc40ssjnz0r3gpgDqBVulRI1cVHA39Ao10+d+qZJ5Sgy9L7IxiFgJc4AgTR9ht9gsdDYK6KCcz5bKUnyv2Fw3EMFYOD"
 
