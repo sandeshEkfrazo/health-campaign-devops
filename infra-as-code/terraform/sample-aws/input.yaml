@@ -5,7 +5,7 @@ cluster_name: "san-demo-san-v1"
 
 # Name you want to give to your Database
 # DB name must contain only alphanumeric characters
-db_name: "san-demo-san-v1"
+db_name: "testhealthdb_san"
 
 # Replace with DB username you want
 # DB user name must contain only alphanumeric characters
