@@ -1,11 +1,11 @@
 # Replace with the name which you want to give to your EKS cluster
 # Cluster name can have only lowercase alphanumeric characters and hyphens
 # For example: "digit-demo"
-cluster_name: "testhealth-k8supgrade"
+cluster_name: "testhealth-k8supgrade-demo-san-v1"
 
 # Name you want to give to your Database
 # DB name must contain only alphanumeric characters
-db_name: "testhealthdb"
+db_name: "testhealthdb-demo-san-v1"
 
 # Replace with DB username you want
 # DB user name must contain only alphanumeric characters
@@ -14,5 +14,7 @@ db_username: "testhealth"
 # Replace with Domain name you want for your web applications
 domain_name: "hcm-console.digit.org"
 
+public_ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMNiDLR/ETwFCzaWIVQAKy/tYYFRpB00MfYVef1p2UF5 sandesh@ekfrazo.in"
+
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform states
-terraform_state_bucket_name: "testhealth-k8supgrade-digit-buckets"
+terraform_state_bucket_name: "testhealth-k8supgrade-digit-buckets-demo-san-v1"
