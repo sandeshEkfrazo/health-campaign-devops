@@ -20,4 +20,4 @@ public_ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCFyVBal/JME1JCJtO/t/+MTO6
 ssh_key_name: "sandesh-ssh-egov"
 
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform states
-terraform_state_bucket_name: "san-buckets-demo-san-v1"
+terraform_state_bucket_name: "san-buckets-demo-san-v2"
